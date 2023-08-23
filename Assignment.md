@@ -3,6 +3,8 @@ assignment
 Justin Berg
 2023-08-23
 
+\##libraries
+
 ``` r
 library(raster)
 ```
@@ -55,11 +57,8 @@ library(fishualize)
 plot(horseshoe)
 ```
 
-    ## Warning in sp::CRS(...): sf required for evolution_status==2L
-
-    ## Warning in sp::CRS(...): sf required for evolution_status==2L
-
-![](Assignment_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+![](Assignment_files/figure-gfm/unnamed-chunk-1-1.png)<!-- --> \##About
+Me
 
 \###Current lab: Nelson Lab \###Project focus: I will study runoff on
 the coral microbiome and metabolome, specfically in West Maui and

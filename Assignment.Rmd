@@ -9,6 +9,7 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+##libraries
 ```{r}
 library(raster)
 library(habtools)
@@ -18,6 +19,7 @@ library(fishualize)
 
 plot(horseshoe)
 ```
+##About Me
 
 ###Current lab: Nelson Lab
 ###Project focus: I will study runoff on the coral microbiome and metabolome, specfically in West Maui and possibly Guam. I also am aiding in the Donahue Lab nutrient experiment. 
