@@ -2,29 +2,27 @@
 title: "assignment"
 author: "Justin Berg"
 date: "2023-08-23"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+```{r}
+library(raster)
+library(habtools)
+library(ggplot2)
+library(dplyr)
+library(fishualize)
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
+plot(horseshoe)
 ```
 
-## Including Plots
+###Current lab: Nelson Lab
+###Project focus: I will study runoff on the coral microbiome and metabolome, specfically in West Maui and possibly Guam. I also am aiding in the Donahue Lab nutrient experiment. 
+###Why you chose this course: I wanted to learn new techniques about coral reef photogrametry that could be used in my future work with shifts in reefs that involce runoff. 
+###What do you want to learn about the most in this course: I enter this class very open minded and hope to walk away with a better understanding of how others may approach certain coral related issues and to have an open dialogue about creative ways to approach my future research goals and objectives. 
+###Your R experience: I have taken advanced statistics in R last fall and have been modeling and visualizing in R for the last 5 years. 
+###Fun fact: I love cooking and eating new foods, so my girlfriend and I are cooking a meal from each country around the world (currently have about 12 done). 
 
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
