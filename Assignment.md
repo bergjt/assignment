@@ -3,7 +3,7 @@ assignment
 Justin Berg
 2023-08-23
 
-\##libraries
+## libraries
 
 ``` r
 library(raster)
@@ -57,20 +57,17 @@ library(fishualize)
 plot(horseshoe)
 ```
 
-![](Assignment_files/figure-gfm/unnamed-chunk-1-1.png)<!-- --> \##About
+![](Assignment_files/figure-gfm/unnamed-chunk-1-1.png)<!-- --> \## About
 Me
 
-\###Current lab: Nelson Lab \###Project focus: I will study runoff on
-the coral microbiome and metabolome, specfically in West Maui and
-possibly Guam. I also am aiding in the Donahue Lab nutrient experiment.
-\###Why you chose this course: I wanted to learn new techniques about
-coral reef photogrametry that could be used in my future work with
-shifts in reefs that involce runoff. \###What do you want to learn about
-the most in this course: I enter this class very open minded and hope to
-walk away with a better understanding of how others may approach certain
-coral related issues and to have an open dialogue about creative ways to
-approach my future research goals and objectives. \###Your R experience:
-I have taken advanced statistics in R last fall and have been modeling
-and visualizing in R for the last 5 years. \###Fun fact: I love cooking
-and eating new foods, so my girlfriend and I are cooking a meal from
-each country around the world (currently have about 12 done).
+### Current lab: Nelson Lab
+
+### Project focus: I will study runoff on the coral microbiome and metabolome, specfically in West Maui and possibly Guam. I also am aiding in the Donahue Lab nutrient experiment.
+
+### Why you chose this course: I wanted to learn new techniques about coral reef photogrametry that could be used in my future work with shifts in reefs that involce runoff.
+
+### What do you want to learn about the most in this course: I enter this class very open minded and hope to walk away with a better understanding of how others may approach certain coral related issues and to have an open dialogue about creative ways to approach my future research goals and objectives.
+
+### Your R experience: I have taken advanced statistics in R last fall and have been modeling and visualizing in R for the last 5 years.
+
+### Fun fact: I love cooking and eating new foods, so my girlfriend and I are cooking a meal from each country around the world (currently have about 12 done).
